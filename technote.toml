@@ -21,3 +21,11 @@ orcid = "https://orcid.org/0000-0001-5982-167X"
 name = "NSF-DOE Vera C. Rubin Observatory / NSF NOIRLab"
 internal_id = "RubinObs"
 address = "Tucson"
+[[technote.authors]]
+name = {given = "Tiago", family = "Ribeiro"}
+internal_id = "ribeirot"
+orcid = "https://orcid.org/0000-0002-0138-1365"
+[[technote.authors.affiliations]]
+name = "NSF-DOE Vera C. Rubin Observatory / NSF NOIRLab"
+internal_id = "RubinObs"
+ror = "https://ror.org/048g3cy84"
